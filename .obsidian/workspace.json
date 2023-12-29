@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8eb2b53a0504c9c5",
+            "id": "ad358f5f06138821",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0b18178b8105aef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1058340f153cdf7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AI",
+                "query": "tag:#爱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 300
   },
   "right": {
     "id": "e20e0c2e94363f6e",
@@ -85,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,47 +135,82 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "8eb2b53a0504c9c5",
+  "active": "b0b18178b8105aef",
   "lastOpenFiles": [
+    "lami/镜头语言/电影list - 分析影评 TBA.md",
+    "lami/镜头语言",
+    "lami/学习模型/学习模型-阅读.md",
+    "lami/学习模型/学习模型-艺术.md",
+    "lami/学习模型",
+    "lami/global warming- TBA/未命名.md",
+    "lami/global warming- TBA",
+    "lami/TBA- HUB.md",
+    "lami/ML -/ML model-TBA/clustering - unsupervised/clustering model insights.md",
+    "lami/ML -/ML model-TBA/clustering - unsupervised",
+    "lami/ML -/ML model-TBA/LASSO/RFE feature selection and LASSO.md",
+    "lami/ML -/ML model-TBA/LASSO",
+    "lami/ML -/INSIGHTS-TBA.md",
+    "lami/ML -/Auto ML/Pasted image 20231229044639.png",
+    "lami/ML -/Auto ML/Auto ML.md",
+    "lami/ML -/Auto ML/Pasted image 20231229044351.png",
+    "lami/ML -/Auto ML/Pasted image 20231229044524.png",
+    "lami/ML -/Auto ML",
+    "lami/1 fleeting thoughts - HUB/reading list-shelf.md",
+    "lami/1 fleeting thoughts - HUB/231228 FT- HUB.md",
+    "lami/1 fleeting thoughts - HUB/231227- question- discovering-爱-contemp-shelf.md",
+    "lami/1 fleeting thoughts - HUB/231227   FT- HUB.md",
+    "lami/1 fleeting thoughts - HUB",
+    "lami/0  obsidian notes basic/obsidian-template.md",
+    "lami/0  obsidian notes basic/obsidian-markdown.md",
+    "lami/0  obsidian notes basic",
+    "haoting/Product Management/PM工作原则 V0.1.1.md",
+    "haoting/Product Management",
+    "haoting/AI Paper/LLM Practice/Structured Prompting Scaling In-Context Learning to 1000 Examples.pdf",
+    "haoting/AI Notes/LoRA.md",
+    "haoting/AI Notes/LCM-LoRA.md",
+    "haoting/AI Notes/Diffusion Model.md",
     "Self-Management/自我管理备忘录.canvas",
     "Self-Management/《SuperBetter（游戏改变人生）》.md",
-    "AI Paper/LLM Practice/Structured Prompt Tuning.pdf",
-    "AI Paper/LLM Practice/LCM-LoRA.pdf",
     "Product Management/PM工作原则 V0.1.1.md",
     "Images/SuperBetter-1.png",
-    "Images",
-    "AI Notes/Diffusion Model.md",
     "AI Notes/LoRA.md",
     "AI Notes/LCM-LoRA.md",
-    "2023-12-26.md",
-    "AI Paper/LLM Basic/A fast learning algorithm for deep belief nets.pdf",
-    "AI Paper/LLM Basic/Distributed Representations of Words and Phrases and their Compositionality.pdf",
-    "AI Paper/LLM Basic/Efficient Estimation of Word Representations in Vector Space.pdf",
-    "AI Paper/LLM Basic/Attention Is All You Need.pdf",
-    "AI Paper/LLM Basic/Imagenet Classification with Deep Convolutional Neural Networks.pdf",
-    "Self-Management",
-    "AI Paper/LLM Practice/LoRA Low-Rank Adaptation of Large Language Models.pdf"
+    "AI Notes/Diffusion Model.md",
+    "haoting/Self-Management/自我管理备忘录.canvas",
+    "haoting/Self-Management/《SuperBetter（游戏改变人生）》.md",
+    "haoting/Images/SuperBetter-1.png",
+    "haoting/Self-Management/自我管理备忘录.canvas",
+    "haoting/Self-Management/《SuperBetter（游戏改变人生）》.md",
+    "haoting/Images/SuperBetter-1.png",
+    "lami/ML -/ML model/Auto ML/Pasted image 20231229044647.png",
+    "Pasted image 20231229044403.png",
+    "lami/ML -/ML model/Auto ML/Pasted image 20231229043604.png",
+    "lami/ML -/ML model/Pasted image 20231229044035.png",
+    "未命名.canvas",
+    "lami.canvas",
+    "haoting/未命名.canvas"
   ]
 }
