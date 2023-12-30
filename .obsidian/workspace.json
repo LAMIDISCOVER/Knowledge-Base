@@ -11,8 +11,10 @@
             "id": "ad358f5f06138821",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "lami/cognitive  study -TBA/brain health/sleep- brain to verbal stimuli reveal transient period of cognitive.pdf"
+              }
             }
           },
           {
@@ -21,7 +23,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "lami/cognitive  study -TBA/impact of heat extremes in NA.pdf"
+                "file": "lami/global warming- TBA/paper/impact of heat extremes in NA.pdf"
               }
             }
           },
@@ -29,11 +31,40 @@
             "id": "b1058340f153cdf7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "lami/1 fleeting thoughts - HUB/231227   FT- HUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fef77d7257a72df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lami/cognitive  study -TBA/Cognitive -Question and Discovering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07cd26f6e619f2f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具·箱/tool list.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "工具·箱/tool list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "工具·箱/tool list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "工具·箱/tool list.md"
+              }
             }
           }
         ]
@@ -159,40 +194,42 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ad358f5f06138821",
+  "active": "07cd26f6e619f2f3",
   "lastOpenFiles": [
+    "Pasted image 20231229233350.png",
+    "工具·箱/tool list.md",
+    "lami/cognitive  study -TBA/Cognitive -Question and Discovering.md",
+    "lami/1 fleeting thoughts - HUB/231227   FT- HUB.md",
+    "工具·箱",
+    "lami/1 fleeting thoughts - HUB/231228 FT- HUB.md",
+    "lami/1 fleeting thoughts - HUB/231227- question- discovering-爱-contemp-shelf.md",
+    "lami/1 fleeting thoughts - HUB/reading list-shelf.md",
+    "lami/global warming- TBA/Global Warming insights.md",
+    "lami/global warming- TBA/paper/climate - AI.pdf",
+    "lami/global warming- TBA/paper/AI -based segmentation and analysis pipeline for MR monitoring.pdf",
     "lami/ML/Auto ML/Auto ML - pipeline.md",
+    "lami/cognitive  study -TBA/brain health/sleep- brain to verbal stimuli reveal transient period of cognitive.pdf",
+    "lami/ML/ML model-TBA/TensorFlow/high-order tensor flow.pdf",
+    "lami/ML/ML model-TBA/TensorFlow",
+    "lami/cognitive  study -TBA/brain health/brain signature- sleep in task-based and resting -state conditions.pdf",
+    "lami/cognitive  study -TBA/brain health/sleeping",
+    "lami/global warming- TBA/paper/drylands expansion.pdf",
+    "lami/global warming- TBA/paper/impact of heat extremes in NA.pdf",
     "lami/ML/ML-Insights-TBA.md",
     "lami/ML/ML model-TBA/LASSO/RFE feature selection and LASSO.md",
     "lami/ML/ML model-TBA/clustering - unsupervised/clustering model insights.md",
     "lami/ML/Auto ML/Pasted image 20231229044351.png",
-    "Pasted image 20231229233350.png",
     "lami/ML/Auto ML/Pasted image 20231229044639.png",
     "lami/0  obsidian notes basic/obsidian-template.md",
     "lami/0  obsidian notes basic/obsidian-markdown.md",
-    "lami/1 fleeting thoughts - HUB/231227   FT- HUB.md",
-    "lami/global warming- TBA/paper/AI -based segmentation and analysis pipeline for MR monitoring.pdf",
-    "lami/global warming- TBA/paper/climate - AI.pdf",
-    "lami/global warming- TBA/paper/drylands expansion.pdf",
-    "lami/cognitive  study -TBA/impact of heat extremes in NA.pdf",
-    "lami/AI and Design/未命名",
-    "lami/global warming- TBA/未命名.md",
-    "lami/global warming- TBA/paper",
-    "lami/global warming- TBA/s41467-023-42932-w.pdf",
     "haoting/Self-Management/自我管理备忘录.canvas",
     "haoting/Self-Management/《SuperBetter（游戏改变人生）》.md",
-    "haoting/Self-Management",
     "haoting/Images/SuperBetter-1.png",
-    "haoting/Images",
     "lami/镜头语言/电影list - 分析影评 TBA.md",
-    "lami/镜头语言",
     "lami/学习模型/学习模型-阅读.md",
     "lami/学习模型/学习模型-艺术.md",
     "lami/TBA- HUB.md",
     "lami/ML/Auto ML/Pasted image 20231229044524.png",
-    "lami/1 fleeting thoughts - HUB/reading list-shelf.md",
-    "lami/1 fleeting thoughts - HUB/231228 FT- HUB.md",
-    "lami/1 fleeting thoughts - HUB/231227- question- discovering-爱-contemp-shelf.md",
     "haoting/Product Management/PM工作原则 V0.1.1.md",
     "haoting/AI Notes/LoRA.md",
     "haoting/AI Notes/LCM-LoRA.md",
@@ -202,8 +239,6 @@
     "Product Management/PM工作原则 V0.1.1.md",
     "Images/SuperBetter-1.png",
     "AI Notes/LoRA.md",
-    "AI Notes/LCM-LoRA.md",
-    "AI Notes/Diffusion Model.md",
     "lami/ML -/ML model/Auto ML/Pasted image 20231229044647.png",
     "Pasted image 20231229044403.png",
     "lami/ML -/ML model/Auto ML/Pasted image 20231229043604.png",

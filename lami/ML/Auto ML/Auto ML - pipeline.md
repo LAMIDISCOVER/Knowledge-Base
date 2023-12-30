@@ -10,10 +10,10 @@ sources : u of t guests speaking about Auto Machine learning
 #AutoML
 #MLSources
 
-sources : Auto-Sklearn -free 
+**sources : Auto-Sklearn -free** 
 https://machinelearningmastery.com/auto-sklearn-for-automated-machine-learning-in-python/
 
-automl-classification : code 
+**automl-classification : code** 
 https://automl.github.io/auto-sklearn/master/#
 
 	import autosklearn.classification
