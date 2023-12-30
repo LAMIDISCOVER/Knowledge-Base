@@ -11,16 +11,22 @@
             "id": "ad358f5f06138821",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "lami/ML -/Auto ML/Auto ML - pipeline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "b0b18178b8105aef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "lami/cognitive  study -TBA/impact of heat extremes in NA.pdf"
+              }
             }
           },
           {
@@ -31,8 +37,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lami/ML -/Auto ML/Auto ML - pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "lami/ML -/Auto ML/Auto ML - pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "lami/ML -/Auto ML/Auto ML - pipeline.md"
+              }
             }
           }
         ]
@@ -158,8 +167,23 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b0b18178b8105aef",
+  "active": "b55000c14344b6e6",
   "lastOpenFiles": [
+    "Pasted image 20231229233350.png",
+    "lami/ML -/Auto ML/Pasted image 20231229044639.png",
+    "lami/ML -/Auto ML/Auto ML - pipeline.md",
+    "lami/ML -/Auto ML/Pasted image 20231229044351.png",
+    "lami/0  obsidian notes basic/obsidian-template.md",
+    "lami/0  obsidian notes basic/obsidian-markdown.md",
+    "lami/1 fleeting thoughts - HUB/231227   FT- HUB.md",
+    "lami/global warming- TBA/paper/AI -based segmentation and analysis pipeline for MR monitoring.pdf",
+    "lami/global warming- TBA/paper/climate - AI.pdf",
+    "lami/global warming- TBA/paper/drylands expansion.pdf",
+    "lami/cognitive  study -TBA/impact of heat extremes in NA.pdf",
+    "lami/AI and Design/未命名",
+    "lami/global warming- TBA/未命名.md",
+    "lami/global warming- TBA/paper",
+    "lami/global warming- TBA/s41467-023-42932-w.pdf",
     "haoting/Self-Management/自我管理备忘录.canvas",
     "haoting/Self-Management/《SuperBetter（游戏改变人生）》.md",
     "haoting/Self-Management",
@@ -169,28 +193,14 @@
     "lami/镜头语言",
     "lami/学习模型/学习模型-阅读.md",
     "lami/学习模型/学习模型-艺术.md",
-    "lami/学习模型",
-    "lami/global warming- TBA/未命名.md",
-    "lami/global warming- TBA",
     "lami/TBA- HUB.md",
     "lami/ML -/ML model-TBA/clustering - unsupervised/clustering model insights.md",
-    "lami/ML -/ML model-TBA/clustering - unsupervised",
     "lami/ML -/ML model-TBA/LASSO/RFE feature selection and LASSO.md",
-    "lami/ML -/ML model-TBA/LASSO",
     "lami/ML -/INSIGHTS-TBA.md",
-    "lami/ML -/Auto ML/Pasted image 20231229044639.png",
-    "lami/ML -/Auto ML/Auto ML.md",
-    "lami/ML -/Auto ML/Pasted image 20231229044351.png",
     "lami/ML -/Auto ML/Pasted image 20231229044524.png",
-    "lami/ML -/Auto ML",
     "lami/1 fleeting thoughts - HUB/reading list-shelf.md",
     "lami/1 fleeting thoughts - HUB/231228 FT- HUB.md",
     "lami/1 fleeting thoughts - HUB/231227- question- discovering-爱-contemp-shelf.md",
-    "lami/1 fleeting thoughts - HUB/231227   FT- HUB.md",
-    "lami/1 fleeting thoughts - HUB",
-    "lami/0  obsidian notes basic/obsidian-template.md",
-    "lami/0  obsidian notes basic/obsidian-markdown.md",
-    "lami/0  obsidian notes basic",
     "haoting/Product Management/PM工作原则 V0.1.1.md",
     "haoting/AI Notes/LoRA.md",
     "haoting/AI Notes/LCM-LoRA.md",
