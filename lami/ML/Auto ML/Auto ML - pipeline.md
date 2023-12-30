@@ -2,9 +2,8 @@ sources : u of t guests speaking about Auto Machine learning
 
 ![[Pasted image 20231229044524.png]]
 
-![[Pasted image 20231229233350.png]]
 
-
+![[Pasted image 20231230004747.png]]
 ![[Pasted image 20231229044351.png]]
 #MLpipline 
 #AutoML
@@ -20,3 +19,5 @@ https://automl.github.io/auto-sklearn/master/#
 	import sklearn.model_selection
 	import sklearn.datasets
 	import sklearn.metrics
+
+
