@@ -5,10 +5,9 @@ ______
 
 **sources:** 
 low-code machine learning library in python; automates ML workflows : https://pycaret.gitbook.io/ 
+#ML #MLsouces 
 
-___
-
-
+---
 **Accuracy** ： 
 - when different models have similar accuracy : 97% 96% 99%
 what does it tell you ?

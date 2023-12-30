@@ -11,12 +11,8 @@
             "id": "ad358f5f06138821",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lami/ML -/Auto ML/Auto ML - pipeline.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lami/ML -/Auto ML/Auto ML - pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lami/ML -/Auto ML/Auto ML - pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "lami/ML -/Auto ML/Auto ML - pipeline.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,12 +159,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b55000c14344b6e6",
+  "active": "ad358f5f06138821",
   "lastOpenFiles": [
+    "lami/ML/Auto ML/Auto ML - pipeline.md",
+    "lami/ML/ML-Insights-TBA.md",
+    "lami/ML/ML model-TBA/LASSO/RFE feature selection and LASSO.md",
+    "lami/ML/ML model-TBA/clustering - unsupervised/clustering model insights.md",
+    "lami/ML/Auto ML/Pasted image 20231229044351.png",
     "Pasted image 20231229233350.png",
-    "lami/ML -/Auto ML/Pasted image 20231229044639.png",
-    "lami/ML -/Auto ML/Auto ML - pipeline.md",
-    "lami/ML -/Auto ML/Pasted image 20231229044351.png",
+    "lami/ML/Auto ML/Pasted image 20231229044639.png",
     "lami/0  obsidian notes basic/obsidian-template.md",
     "lami/0  obsidian notes basic/obsidian-markdown.md",
     "lami/1 fleeting thoughts - HUB/231227   FT- HUB.md",
@@ -194,10 +189,7 @@
     "lami/学习模型/学习模型-阅读.md",
     "lami/学习模型/学习模型-艺术.md",
     "lami/TBA- HUB.md",
-    "lami/ML -/ML model-TBA/clustering - unsupervised/clustering model insights.md",
-    "lami/ML -/ML model-TBA/LASSO/RFE feature selection and LASSO.md",
-    "lami/ML -/INSIGHTS-TBA.md",
-    "lami/ML -/Auto ML/Pasted image 20231229044524.png",
+    "lami/ML/Auto ML/Pasted image 20231229044524.png",
     "lami/1 fleeting thoughts - HUB/reading list-shelf.md",
     "lami/1 fleeting thoughts - HUB/231228 FT- HUB.md",
     "lami/1 fleeting thoughts - HUB/231227- question- discovering-爱-contemp-shelf.md",
