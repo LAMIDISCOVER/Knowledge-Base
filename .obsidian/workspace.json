@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lami/global warming- TBA/Global Warming insights.md",
+                "file": "lami/1 fleeting thoughts - HUB/240108.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lami/global warming- TBA/Global Warming insights.md",
+                "file": "lami/1 fleeting thoughts - HUB/240108.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lami/global warming- TBA/Global Warming insights.md",
+                "file": "lami/1 fleeting thoughts - HUB/240108.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lami/global warming- TBA/Global Warming insights.md"
+                "file": "lami/1 fleeting thoughts - HUB/240108.md"
               }
             }
           }
@@ -183,7 +183,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
@@ -194,14 +193,21 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b55000c14344b6e6",
+  "active": "07cd26f6e619f2f3",
   "lastOpenFiles": [
-    "lami/ML/ML-Insights-TBA.md",
+    "lami/1 fleeting thoughts - HUB/231228 FT- HUB.md",
+    "lami/1 fleeting thoughts - HUB/240108.md",
+    "lami/1 fleeting thoughts - HUB/reading list-shelf.md",
+    "haoting/Self-Management/《SuperBetter（游戏改变人生）》.md",
+    "lami/学习模型/学习模型-阅读.md",
+    "lami/1 fleeting thoughts - HUB/231227- question- discovering-爱-contemp-shelf.md",
+    "lami/1 fleeting thoughts - HUB/231227   FT- HUB.md",
+    "lami/工具箱/tool list.md",
     "lami/global warming- TBA/Global Warming insights.md",
+    "lami/ML/ML-Insights-TBA.md",
     "lami/global warming- TBA/GW-paper/impact of heat extremes in NA.pdf",
     "lami/学习模型/学习模型-艺术.md",
     "lami/TBA- HUB.md",
-    "工具·箱/tool list.md",
     "lami/ML/ML model - TBA/LASSO/RFE feature selection and LASSO.md",
     "lami/ML/Auto ML/Pasted image 20231229044351.png",
     "lami/ML/Auto ML/Auto ML - pipeline.md",
@@ -211,11 +217,7 @@
     "lami/ML/ML model - TBA/TensorFlow/Pasted image 20231230004708.png",
     "Pasted image 20231229233350.png",
     "lami/cognitive  study/Cognitive -Question and Discovering.md",
-    "lami/1 fleeting thoughts - HUB/231227   FT- HUB.md",
-    "工具·箱",
-    "lami/1 fleeting thoughts - HUB/231228 FT- HUB.md",
-    "lami/1 fleeting thoughts - HUB/231227- question- discovering-爱-contemp-shelf.md",
-    "lami/1 fleeting thoughts - HUB/reading list-shelf.md",
+    "lami/工具箱",
     "lami/global warming- TBA/GW-paper/climate - AI.pdf",
     "lami/global warming- TBA/GW-paper/AI -based segmentation and analysis pipeline for MR monitoring.pdf",
     "lami/cognitive  study/brain health/sleep- brain to verbal stimuli reveal transient period of cognitive.pdf",
@@ -228,10 +230,8 @@
     "lami/0  obsidian notes basic/obsidian-template.md",
     "lami/0  obsidian notes basic/obsidian-markdown.md",
     "haoting/Self-Management/自我管理备忘录.canvas",
-    "haoting/Self-Management/《SuperBetter（游戏改变人生）》.md",
     "haoting/Images/SuperBetter-1.png",
     "lami/镜头语言/电影list - 分析影评 TBA.md",
-    "lami/学习模型/学习模型-阅读.md",
     "lami/ML/Auto ML/Pasted image 20231229044524.png",
     "haoting/Product Management/PM工作原则 V0.1.1.md",
     "haoting/AI Notes/LoRA.md",
